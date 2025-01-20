@@ -32,11 +32,11 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
 </a>
 
-<a href="https://linkedin.com/in/restu-wibisono" target="blank">
+<a href="https://www.linkedin.com/in/restu-wibisono-7b46b82b2/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
-<a href="https://stackoverflow.com/users/restu-wibisono" target="blank">
+<a href="https://stackoverflow.com/users/29279915/restu-wibisono" target="blank">
   <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stack-overflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
 </a>
 
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
 </a>
 
-<a href="https://www.youtube.com/c/restuwibisono3518" target="blank">
+<a href="https://www.youtube.com/@restuwibisono3518" target="blank">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
 </a>
 
