@@ -50,7 +50,7 @@
 
 <div align="left">
   <h3 align="left">Social Media:</h3>
-  <a href="https://medium.com/@restu.wibisonoo_33139" target="blank">
+  <a href="https://medium.com/@restu.wibisonoo" target="blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
   <a href="https://www.linkedin.com/in/restu-wibisono-7b46b82b2/" target="blank">
