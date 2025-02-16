@@ -68,21 +68,21 @@
   <a href="https://instagram.com/restu.wibisonoo" target="blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://twitter.com/zrealchn" target="blank">
+<!--   <a href="https://twitter.com/zrealchn" target="blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://fb.com/restu.wibisono.372" target="blank">
+  </a> -->
+<!--   <a href="https://fb.com/restu.wibisono.372" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://www.youtube.com/@restuwibisono3518" target="blank">
+  </a> -->
+<!--   <a href="https://www.youtube.com/@restuwibisono3518" target="blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://discord.gg/restuwibisono" target="blank">
+  </a> -->
+<!--   <a href="https://discord.gg/restuwibisono" target="blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:restu.wibisonoo@gmail.com?subject=Subject%20Here&body=Message%20Body%20Here" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+  </a> -->
 </div>
 
 ###
